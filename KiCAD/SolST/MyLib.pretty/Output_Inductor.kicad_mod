@@ -1,0 +1,8 @@
+(module Output_Inductor (layer F.Cu) (tedit 5BEDCEE2)
+  (fp_text reference REF** (at 0.635 -1.27) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Output_Inductor (at 0 -2.54) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)
